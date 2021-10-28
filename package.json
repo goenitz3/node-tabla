@@ -1,0 +1,18 @@
+{
+  "name": "s04-bases-de-node",
+  "version": "0.0.1",
+  "description": "Calcula tabla del 1 a 10 e imprime en un txt",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jaime Macias <jaime.neo@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.2.1"
+  }
+}
